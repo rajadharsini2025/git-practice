@@ -1,1 +1,2 @@
 hello
+Learning git is fun
