@@ -1,2 +1,3 @@
 hello
 Learning git is fun
+This line is included in the branch testing
