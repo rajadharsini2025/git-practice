@@ -1,3 +1,2 @@
-hello
-Learning git is fun
-This line is included in the branch testing
+Hello git 
+This is learning in master branch
