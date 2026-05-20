@@ -1,2 +1,2 @@
 Hello git 
-This is learning in master branch
+This is learning in master branch and in conflict merge working
