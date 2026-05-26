@@ -1,2 +1,3 @@
 Hello git 
 This is learning in master branch and in conflict merge working
+This change is made from the github website
